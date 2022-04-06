@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TwoActivitiesChallange</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+
+    <string name="displayText_one">Avatar the Last Airbender:  The world is divided into four nations -- the Water Tribe, the Earth Kingdom,
+        the Fire Nation and and the Air Nomads -each represented by a natural element for which the nation is named.
+        Benders have the ability to control and manipulate the element from their nation. Only the Avatar is the master of all four elements.
+        The ruthless Fire Nation wants to conquer the world but the only bender who has enough power, the Avatar, has disappeared ...
+        until now. His tribe soon discovers that Aang is the long-lost Avatar. Now Katara and Sokka must safeguard Aang on his journey to master
+        all four elements and save the world from the Fire Nation</string>
+
+    <string name="displayText_two">One Piece: a Japanese manga series written and illustrated by Eiichiro Oda.
+        It has been serialized in Shueishas shonen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters
+        compiled into 102 tankobon volumes as of April 2022. The story follows the adventures of Monkey D. Luffy, a boy whose body gained
+        the properties of rubber after unintentionally eating a Devil Fruit. With his pirate crew, the Straw Hat Pirates, Luffy explores
+        the Grand Line in search of the world ultimate treasure known as the "One Piece" in order to become the next King of the Pirates.
+        The manga spawned a media franchise, having been adapted into a festival film produced by Production I.G, and an anime series produced by
+        Toei Animation, which began broadcasting in Japan in 1999. Additionally, Toei has developed fourteen animated feature films, one OVA
+        and thirteen television specials. Several companies have developed various types of merchandising and media, such as a trading card game
+        and numerous video games. The manga series was licensed for an English language release in North America and the United Kingdom by Viz
+        Media and in Australia by Madman Entertainment.</string>
+
+    <string name="displayText_three">One-Punch Man a Japanese superhero franchise created by the artist ONE. It tells the story of Saitama,
+        a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of
+        challenge due to his overwhelming strength. ONE wrote the original webcomic version in early 2009.
+        A digital manga remake began publication on Shueishas Tonari no Young Jump website in June 2012. The manga is illustrated by
+        Yusuke Murata, and its chapters are periodically compiled and published into individual tankōbon volumes. As of December 2021,
+        24 volumes have been released. In North America, Viz Media has licensed the remake manga for English language release and was
+        serialized in its Weekly Shonen Jump digital magazine.</string>
+</resources>

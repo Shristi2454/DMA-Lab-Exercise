@@ -1,0 +1,32 @@
+ <resources>
+        <string name="app_name">Scrolling Text</string>
+        <string name="article_title">Barbie</string>
+        <string name="article_subtitle">Barbie doll: Description</string>
+        <string name="article_text">Barbie is a fashion doll manufactured by the American
+        toy company Mattel, Inc. and launched in March 1959. American businesswoman Ruth Handler is credited
+        with the creation of the doll using a German doll called Bild Lilli as her inspiration.
+        Barbie is the figurehead of a brand of Mattel dolls and accessories, including other family members and collectible
+        dolls. \n\nBarbie has been an important part of the toy fashion doll market for over sixty years, and has been the subject
+        of numerous controversies and lawsuits, often involving parodies of the doll and her lifestyle. Mattel has sold over a
+        billion Barbie dolls, making it the company largest and most profitable line.\n\n
+
+<b><i>History</i></b> - Ruth Handler watched her daughter Barbara play with paper dolls, and noticed that she often enjoyed giving
+        them adult roles. At the time, most children toy dolls were representations of infants. Realizing that there could be a
+        gap in the market, Handler suggested the idea of an adult-bodied doll to her husband Elliot, a co-founder of the Mattel
+        toy company. He was unenthusiastic about the idea, as were Mattel directors.\n\n
+        During a trip to Europe in 1956 with her children Barbara and Kenneth, Ruth Handler came across a German toy doll called
+        Bild Lilli. The adult-figured doll was exactly what Handler had in mind, so she purchased three of them. She gave one to
+        her daughter and took the others back to Mattel. The Lilli doll was based on a popular character appearing in a comic
+        strip drawn by Reinhard Beuthin for the newspaper Bild. Lilli was a blonde bombshell, a working girl who knew what
+        she wanted and was not above using men to get it. The Lilli doll was first sold in Germany in 1955, and although it
+        was initially sold to adults, it became popular with children who enjoyed dressing her up in outfits that were available separately.
+
+                \n\n
+<b><i>Fictional Biography</i></b>  —  Barbies full name is Barbara Millicent Roberts. In a series of novels published by Random House in the 1960s,
+        her parents names are given as George and Margaret Roberts from the fictional town of Willows, Wisconsin. In the Random
+        House novels, Barbie attended Willows High School; while in the Generation Girl books, published by Golden Books in 1999,
+        she attended the fictional Manhattan International High School in New York City (based on the real-life Stuyvesant High
+        School).
+
+</string>
+    </resources>
